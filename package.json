@@ -1,5 +1,5 @@
 {
-  "name": "crx-webpack-plugin",
+  "name": "@netsells/crx-webpack-plugin",
   "version": "0.1.5",
   "author": "John Agan <johnagan@github.com>",
   "description": "A webpack plugin to package chrome extensions (crx) post build",
